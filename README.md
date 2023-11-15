@@ -99,7 +99,22 @@ The Mass customers are making the highest purchases.
 
 ![](gender_percentage.png)
 
+
+#### DASHBOARD TO VISUALIZE OUR FINDINGS
+
+![](sproketDashboard.png)
+
+
+### Conclusion/Recommendation
+
 Apparently females hold a larger share of the bike purchase market
+
+Based on these findings we where able to identify the customers to target from our newcustomers dataset, based on their 
+state,gender, wealth segment, age_categor and the industry they work.
+
+Hence we came up with this list.
+
+
 
 
 
