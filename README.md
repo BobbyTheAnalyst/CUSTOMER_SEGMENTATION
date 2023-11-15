@@ -36,7 +36,8 @@ and also used excel VLOOKUP function to get the profits of the customers based o
 Imported dataset in Power BI for futher wrangling and transformation.
 
 The following process where carried out on dataset to clean the dataset:
-1.In the customerDemographics dataset:
+
+1.  In the customerDemographics dataset:
     The default column was removed.
     Empty fields and blanks from the DOB column was removed.
     An outlier in the DOB column was renoved.
