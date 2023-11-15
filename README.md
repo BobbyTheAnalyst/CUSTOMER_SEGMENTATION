@@ -64,6 +64,44 @@ Below is a screenshot of the model
 
 ![](sproket_model.png)
 
+### Analysis and Visualization
+
+Analysis was done using simple visuals since the tables have been perfectly modelled together.
+
+#### Total bike purchase by states
+
+![](bike_state_purchase.png)
+
+The highest bike purchases is made in the state of NSW. purchases of over 100,000
+
+
+#### Total bike purchase by age category
+
+![](age_category.png)
+
+The highest number of bikes is being purchased by the age group 40-49.
+
+
+#### Job industry purchases
+
+![](job_industry_purchase.png)
+
+Purchases are very high within the Manufacturing, Healthcare and IT industry's
+
+
+#### Purchaeses by wealth segment
+
+![](wealth_segment.png)
+
+The Mass customers are making the highest purchases.
+
+#### Gender percentage
+
+![](gender_percentage.png)
+
+Apparently females hold a larger share of the bike purchase market
+
+
 
 
 
