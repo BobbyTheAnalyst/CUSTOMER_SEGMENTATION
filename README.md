@@ -113,6 +113,10 @@ state,gender, wealth segment, age_categor and the industry they work.
 
 Hence we came up with this list.
 
+![](high_value_customers.png)
+
+
+
 
 
 
