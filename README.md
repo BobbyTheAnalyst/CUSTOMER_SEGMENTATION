@@ -44,7 +44,15 @@ The following process where carried out on dataset to clean the dataset:
     Fields marked yes in the deceased column was removed.
     Gender coulumn was made consistent by ensuring it was limited to just "MALE", "FEMALE", "U"
 
-2.  In the Customer
+2.  In the CustomerAddress dataset:
+      The state of New South Wales  Victoria was replaced with NSW and VIC respectively.
+
+3. In the Transactions dataset:
+     A calculated column named profit was created.
+
+Below is a screenshot of the power BI tables
+
+![]()
 
 
 
