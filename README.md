@@ -54,6 +54,16 @@ Below is a screenshot of the power BI tables
 
 ![](sproket_power_query.png)
 
+### Models
+The following tables where joined based on the customer id.
+1.  customerDemographic
+2.  customerAddress.
+3.  Transactions
+
+Below is a screenshot of the model
+
+![](sproket_model.png)
+
 
 
 
