@@ -52,7 +52,7 @@ The following process where carried out on dataset to clean the dataset:
 
 Below is a screenshot of the power BI tables
 
-![](sproketPowerquery.png)
+![](sproket_power_query.png)
 
 
 
