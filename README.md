@@ -24,6 +24,7 @@ The dataset contains four excel sheets which includes:
 2.  CustomerDemographics
 3.  NewCustomerList
 4.  Transactions
+5.  CustomerAddress
 
 Link to dataset.
 
@@ -37,7 +38,12 @@ Imported dataset in Power BI for futher wrangling and transformation.
 The following process where carried out on dataset to clean the dataset:
 1.In the customerDemographics dataset:
     The default column was removed.
-    Blanks from the 
+    Empty fields and blanks from the DOB column was removed.
+    An outlier in the DOB column was renoved.
+    Fields marked yes in the deceased column was removed.
+    Gender coulumn was made consistent by ensuring it was limited to just "MALE", "FEMALE", "U"
+
+2.  In the Customer
 
 
 
