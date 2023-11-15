@@ -33,7 +33,7 @@ Link to dataset.
 Created the age column in the customerDemographics dataset using the excel DATEDIF function,
 and also used excel VLOOKUP function to get the profits of the customers based on customer's id.
 
-Imported dataset in Power BI for futher wrangling and transformation.
+Imported dataset into power query in Power BI for futher wrangling and transformation.
 
 The following process where carried out on dataset to clean the dataset:
 
@@ -52,7 +52,7 @@ The following process where carried out on dataset to clean the dataset:
 
 Below is a screenshot of the power BI tables
 
-![]()
+![](sproketPowerquery.png)
 
 
 
