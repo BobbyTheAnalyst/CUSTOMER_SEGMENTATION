@@ -99,21 +99,24 @@ The Mass customers are making the highest purchases.
 
 ![](gender_percentage.png)
 
+Apparently females hold a larger share of the bike purchase market
 
 #### DASHBOARD TO VISUALIZE OUR FINDINGS
 
-![](sproketDashboard.png)
+![](sprocketDashboard.png)
 
 Apparently females hold a larger share of the bike purchase market
 
 ### Conclusion/Recommendation
 
 Based on these findings we where able to identify the customers to target from our newcustomers dataset, based on their 
-state,gender, wealth segment, age_categor and the industry they work.
+state,gender, wealth segment, age_category and the industry they work.
 
 Hence we came up with this list.
 
 ![](high_value_customers.png)
+
+Sproket Central should deploy all its marketing resources to target these high value customers.
 
 
 
