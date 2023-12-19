@@ -1,4 +1,4 @@
-# CUSTOMER_SEGMENTATION
+# CUSTOMER_DESCRIPTIVE_ANALYSIS
 
 ### Introduction
 Our client Sprokket central pty Ltd is a household name in the retail (Bike) business 
